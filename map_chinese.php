@@ -11,7 +11,8 @@ $character_race = array
     8 => '巨魔',
     9 => '地精',
     10 => '血精灵',
-    11 => '德莱尼'
+    11 => '德莱尼',
+    12 => '高等精靈'
 );
 $character_class = array
 (
